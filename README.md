@@ -1,4 +1,4 @@
-# PRODIGY_SD_02
+# Random Number Generation
 #The game generates a random number between 1 and 100.
 #The user is prompted to guess the number.
 #The game provides feedback if the guess is too low or too high.
